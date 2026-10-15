@@ -16,7 +16,7 @@ The second pipeline still has no automated tests.
 
 I am a lead full-stack engineer with 11+ years of experience building web, mobile, and cloud applications. My day-to-day work covers Node.js, TypeScript, React, Angular, Ionic, microservices, event-driven systems, and Microsoft Azure.
 
-At Spring Computing Technologies, I design healthcare and communications platforms, lead modernization work, improve engineering quality, and mentor developers. My recent work includes systems supporting 10,000+ concurrent users, multilingual communication workflows, and automated CI/CD pipelines.
+Professionally, I design healthcare and communications platforms, lead modernization work, improve engineering quality, and mentor developers. My recent work includes systems supporting 10,000+ concurrent users, multilingual communication workflows, and automated CI/CD pipelines.
 
 > My preferred definition of "done": implemented, tested, reviewable, and boring in production.
 
@@ -46,6 +46,7 @@ A multilingual, offline-first devotional content application for Android and iOS
 
 - [Support](https://iamrajshah-apps.pages.dev/aaradhanasetu/support/)
 - [Privacy policy](https://iamrajshah-apps.pages.dev/aaradhanasetu/privacy/)
+- [Public product showcase](https://github.com/iamrajshah/aaradhana-setu-showcase)
 
 </td>
 </tr>
