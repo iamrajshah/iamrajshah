@@ -32,6 +32,7 @@ A mobile-first, multi-tenant retail SaaS platform for staff billing, inventory, 
 
 **Stack:** Ionic React, TypeScript, Node.js, Prisma, and MySQL
 
+- [Public product showcase](https://github.com/iamrajshah/kirana-pos-showcase)
 - [Frontend repository](https://github.com/iamrajshah/kirana-ui)
 - Backend architecture details available on request
 
