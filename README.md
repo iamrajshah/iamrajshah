@@ -45,6 +45,7 @@ A multilingual, offline-first devotional content application for Android and iOS
 
 **Stack:** Ionic React, Capacitor, PDF.js, Cloudflare Workers, and shared TypeScript contracts
 
+- [Download on Google Play](https://play.google.com/store/apps/details?id=io.github.iamrajshah.aaradhanasetu)
 - [Support](https://iamrajshah-apps.pages.dev/aaradhanasetu/support/)
 - [Privacy policy](https://iamrajshah-apps.pages.dev/aaradhanasetu/privacy/)
 - [Public product showcase](https://github.com/iamrajshah/aaradhana-setu-showcase)
